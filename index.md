@@ -1,5 +1,7 @@
 # Watson Lab pages
 
+![](https://raw.githubusercontent.com/WatsonLab/watsonlab.github.io/master/images/header.png)
+
 ## Research interests
 
 We am interested in what large datasets tell us about biological function, and how we can correlate patterns in big data with phenotypes of interest in farm animal health, disease and productivity. 
